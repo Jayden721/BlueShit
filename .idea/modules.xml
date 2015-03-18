@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlueShit/BlueShit.iml" filepath="$PROJECT_DIR$/BlueShit/BlueShit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlueShitWorkspace.iml" filepath="$PROJECT_DIR$/BlueShitWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SupportV4Lib/SupportV4Lib.iml" filepath="$PROJECT_DIR$/SupportV4Lib/SupportV4Lib.iml" />
+    </modules>
+  </component>
+</project>
+
